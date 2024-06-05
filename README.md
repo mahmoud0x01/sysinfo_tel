@@ -1,6 +1,6 @@
 # sysinfo_tel
 
-This script periodically sends important system usage information to a specified Telegram bot as a message. It is designed to run with superuser privileges and can help monitor the system's performance remotely.
+This script periodically sends important system usage information to a specified Telegram bot as a message to send it to specific Telegram User. It is designed to run with superuser privileges and can help monitor the system's performance remotely.
 
 ## Features
 
